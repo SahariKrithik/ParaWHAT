@@ -7,3 +7,5 @@ Shooting the PARATROOPERS gives us 2 points.
 Shooting the HELICOPTER gives us 5 points.
 
 Dont let the paratroopers touch the ground or their suicide mission will become successful and they will deal damage.
+
+Everything gets faster over time , try to survive the troopers attack .
